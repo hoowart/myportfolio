@@ -2,7 +2,7 @@
 title: Freezin' Studios
 tags: projects, full-stack, lua, blender, 3D modelling
 ---
-![[cs_palmtrees.png|300]] 
+![[fs_palmtrees.png|300]] 
 
 [ Link to game will be posted upon release ]
 
