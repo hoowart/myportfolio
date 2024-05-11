@@ -13,7 +13,7 @@ tags: projects, full-stack, lua, blender, 3D modelling
 
 Main 3D Modeller, Full Stack Developer
 
-Trek Quest is a video game hosted on the ROBLOX game engine. The main precise of Trek Quest is to farm crops, sell crops for profit, purchase upgrades, and unlock new areas. 3 Collaborators.
+Trek Quest is a video game hosted on the ROBLOX game engine. The main goal of Trek Quest is to farm crops, sell crops for profit, purchase upgrades, and unlock new areas. 3 Collaborators.
 
 
 ---
@@ -21,7 +21,7 @@ Trek Quest is a video game hosted on the ROBLOX game engine. The main precise of
 
 ### Programming
 
-- Built the "planting system" for every crop in the game, ensuring interactive playability with keyboard and mouse inputs, by implementing clientsided and serversided events.
+- Built the "planting system" for every crop in the game, ensuring interactive playability with keyboard and mouse inputs, by handling client sided events, serversided calculations, and intensive edge case handling.
 
     - Multilevel planting system includes watering, fertilizing, and harvesting the plants at specific intervals of time.
 

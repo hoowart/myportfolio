@@ -13,8 +13,9 @@ Although I'm mostly a programmer, I enjoy anything technical and creative, such 
 
 Check out some of my programming and 3D modelling related projects [[Projects#here]]:
 
-- [[Crystallized Studios]] - Main full stack developer for a third person rogue-like shooter. Inspired by "Risk of Rain". (2023-Present)
-- [[Freezin' Studios]] - Full stack developer and 3D modeller for the farming game "Trek Quest". (2023-Present)
+- [[TYPISTS]] - Solo developer for a multiplayer type racing game, within the ROBLOX game engine. (2024-Present)
+- [[Freezin' Studios]] - Front end developer and scripter for the farming game "Trek Quest". (2023-Present)
+- [[Crystallized Studios]] - Scripter for a third person rogue-like shooter. Inspired by "Risk of Rain". (2023-Present)
 - [[Waterloo Wrestling]] - Front end web developer for a local wrestling club in Waterloo. (2022-2023)
 
 ---
